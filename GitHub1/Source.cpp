@@ -22,6 +22,11 @@ double sqrtSum(double a, double b)
 	return sqrt(a + b);
 }
 
+double sinSum(double a, double b)
+{
+	return sin(a + b);
+}
+
 int main()
 {
 	cout << "Eita" << endl;
@@ -31,6 +36,8 @@ int main()
 	cout << "2 / 6 = " << division(2, 6) << endl << "O loco bicho" << endl;
 
 	cout << "2 / 0 = " << division(2, 0) << endl << "Pode isso Arnaldo" << endl;
+
+	cout << "Seno! " << sinSum(4, 6) << endl;
 
 	return 0;
 }
