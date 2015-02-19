@@ -32,6 +32,11 @@ double cosSum(double a, double b)
 	return cos(a + b);
 }
 
+double fodase(double a)
+{
+	cout << "fodase" << endl;
+}
+
 int main()
 {
 	cout << "Eita" << endl;
