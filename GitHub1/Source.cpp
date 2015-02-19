@@ -27,6 +27,11 @@ double sinSum(double a, double b)
 	return sin(a + b);
 }
 
+double cosSum(double a, double b)
+{
+	return cos(a + b);
+}
+
 int main()
 {
 	cout << "Eita" << endl;
