@@ -17,6 +17,11 @@ double multiplication(double a, double b)
 	return a * b;
 }
 
+double sqrtSum(double a, double b)
+{
+	return sqrt(a + b);
+}
+
 int main()
 {
 	cout << "Eita" << endl;
