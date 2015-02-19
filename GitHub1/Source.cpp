@@ -37,6 +37,12 @@ double fodase(double a)
 	cout << "fodase" << endl;
 }
 
+double porra()
+{
+	cout << "porra" << endl;
+
+}
+
 int main()
 {
 	cout << "Eita" << endl;
