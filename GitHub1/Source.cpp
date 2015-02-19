@@ -43,6 +43,11 @@ double porra()
 
 }
 
+void attack()
+{
+	cout << "ATAQUEM!!" << endl;
+}
+
 int main()
 {
 	cout << "Eita" << endl;
